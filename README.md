@@ -1,4 +1,4 @@
-# Hi, I'm Connor
+# Hello, I'm Connor
 
 Data Science B.S./M.S. student at Worcester Polytechnic Institute (class of 2028). I work on machine learning, data pipelines, and search algorithms in Python and SQL.
 
